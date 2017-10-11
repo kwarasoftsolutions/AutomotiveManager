@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="AutomotiveManager.Automobile" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAIQAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Automobile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.BodyStyle" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BodyStyle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.Category" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.EngineLiter">
+    <Position X="12.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EngineLiter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.EngineSize" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EngineSize.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.FuelType" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FuelType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.Manufacturer" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manufacturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.ManufactureYear" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ManufactureYear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.Model" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAAAAAAAAAAAABAAAAAEAIAABFAAAAAIAAAA=</HashCode>
+      <FileName>Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.PartType" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQACgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PartType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.Part" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Part.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.SubCategory" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAQAAAQAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>SubCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AutomotiveManager.TransmissionType" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TransmissionType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -2,7 +2,7 @@
 
 namespace AutomotiveManager
 {
-    public class Automobile
+    public class TransmissionType
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
